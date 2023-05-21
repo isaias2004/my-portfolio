@@ -136,11 +136,26 @@ code {
   justify-content: space-evenly;
 }
 
+.container-general h3{
+  color: #ffffff;
+  letter-spacing: .5px;
+  text-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+  font-size: 1.3em;
+  margin-top: 2em;
+}
+
+.container-general p{
+  color: #ffffff;
+  text-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+}
+
 .container-individual{
   background-image: url('./img/fondo-cuidar-consciente.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: soft-light;
   width: 400px;
   height: 350px;
   border-radius: 21px;
@@ -151,27 +166,98 @@ code {
   margin: 25px;
 }
 
-.container-individual h3:hover{
-  letter-spacing: 1px;
-  transition: all ease 1s;
-}
-
-.container-individual h3{
-  color: #ffffff;
-  letter-spacing: .5px;
-  text-shadow: 1px 1px 7px rgba(0,0,0,0.6);
-  font-size: 1.3em;
-  margin-top: 2em;
-}
-
-.container-individual p{
-  color: #888888;
-}
-
 #logocuidar{
   width: 8em;
   height: 7em;
   margin-top: 50px;
   border-radius: 21px;
   box-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+}
+
+#logoninety{
+  width: 8em;
+  height: 7em;
+  margin-top: 50px;
+  border-radius: 21px;
+  box-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+}
+
+#logopokemon{
+  width: 7em;
+  height: 7em;
+  margin-top: 50px;
+  border-radius: 21px;
+  box-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+}
+
+#logostorex{
+  width: 13em;
+  height: 4em;
+  margin-top: 90px;
+  border-radius: 21px;
+  box-shadow: 1px 1px 7px rgba(0,0,0,0.6);
+}
+
+.container-individual2{
+  background-image: url('./img/fondo-ninety.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: soft-light;
+  width: 400px;
+  height: 350px;
+  border-radius: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  margin: 25px;
+}
+
+.container-individual3{
+  background-image: url('./img/fondo-pikachu.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: soft-light;
+  width: 400px;
+  height: 350px;
+  border-radius: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  margin: 25px;
+}
+
+.container-individual4{
+  background-image: url('./img/fondo-storex.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: soft-light;
+  width: 400px;
+  height: 350px;
+  border-radius: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  margin: 25px;
+}
+
+.footer{
+  border-top: 1px solid #e9e9e9;
+  margin-top: 5em;
+}
+
+.footer h4{
+  padding: 50px 0 60px;
+  color: #505050;  
+  font-weight: 300;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 7px rgba(177, 177, 177, 0.6);
 }
