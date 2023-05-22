@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7af0942e.css",
+    "main.js": "/my-portfolio/static/js/main.d3a388db.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/fondo-cuidar-consciente.jpg": "/my-portfolio/static/media/fondo-cuidar-consciente.4f9178e83228750444a2.jpg",
+    "static/media/isa-logo.png": "/my-portfolio/static/media/isa-logo.eea45949f9c758883717.png",
+    "static/media/fondo-pikachu.jpg": "/my-portfolio/static/media/fondo-pikachu.97b0511daa9bf8fac94f.jpg",
+    "static/media/fondo-ninety.jpg": "/my-portfolio/static/media/fondo-ninety.233af5c3cbff064f2aa8.jpg",
+    "static/media/logo-ninety.jpg": "/my-portfolio/static/media/logo-ninety.0b9dc3aad7d479fb9f10.jpg",
+    "static/media/ig.png": "/my-portfolio/static/media/ig.99f2c137d9d6d69d62bf.png",
+    "static/media/fondo-storex.jpg": "/my-portfolio/static/media/fondo-storex.f79f28de3e8e0f429a61.jpg",
+    "static/media/cuidar-corazon.jpeg": "/my-portfolio/static/media/cuidar-corazon.985c9fb3e3a57ee1dba0.jpeg",
+    "static/media/logo-storex.png": "/my-portfolio/static/media/logo-storex.61f55502cc741f516274.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.7af0942e.css.map": "/my-portfolio/static/css/main.7af0942e.css.map",
+    "main.d3a388db.js.map": "/my-portfolio/static/js/main.d3a388db.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af0942e.css",
+    "static/js/main.d3a388db.js"
+  ]
+}
